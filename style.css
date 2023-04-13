@@ -1,0 +1,10 @@
+.preview {
+    border: 2px solid red;
+    min-width: 300px;
+    min-height: 300px;
+}
+
+img {
+    max-width: 100px;
+    max-height: 100px;
+}
